@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A73E8&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=35&center=true&vCenter=true&width=1000&lines=Ola!+👋;+Seja+Bem+vindo+ao+meu+Github!+😎👌;:%29)](https://git.io/typing-svg)
-
 ### ⚙️ Meu Github
 
 
